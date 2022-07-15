@@ -7,7 +7,7 @@ Copy the files under `src/` to your program
 OR
 
 ```bash
-composer require mrpck/app18 1.0.0
+composer require mrpck/app18 1.0.1
 ```
 
 
