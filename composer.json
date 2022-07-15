@@ -2,8 +2,8 @@
 	"name": "mrpck/app18",
 	"type": "library",
 	"description": "18app PHP SDK.",
-	"version": "1.0.0",
-	"homepage": "https://packagist.org/packages/mrpck/18app",
+	"version": "1.0.1",
+	"homepage": "https://packagist.org/packages/mrpck/app18",
 	"keywords": [
 		"laravel",
 		"18app",
